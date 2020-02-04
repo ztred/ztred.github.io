@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://ztred.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 幻想乡
+subtitle: "接招吧!承太郎!阴险狡诈的白蛇换碟!!!"
+description: "赵天瑞的幻象乡"
+keywords: Zhao Tianrui, 幻想乡, Ztred , 赵天瑞
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Zhao Tianrui
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: ztred
+location: Beijing, China
+email: SiriusZhao@outlook.com
 
 # ---------------- #
 #    Navigation    #
