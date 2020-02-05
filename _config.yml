@@ -82,3 +82,5 @@ collections:
         permalink: /wiki/:path/
 
 repository: ztred/ztred.github.io
+
+theme: jekyll-theme-minimal
