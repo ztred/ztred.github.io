@@ -76,3 +76,40 @@ collections:
 repository: ztred/ztred.github.io
 
 theme: jekyll-theme-minimal
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, gitment, gitalk
+comments_provider: gitalk
+# !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# https://disqus.com
+disqus:
+    username: 
+# https://imsun.net/posts/gitment-introduction/
+gitment:
+    owner: ztred
+    repo: blog-comments
+    oauth:
+        client_id: 135b279ffd2b298c755b
+        client_secret: 4b78df0a412436b552cbe7daae508185958d9ec7
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    owner: mzlogin
+    repo: blog-comments
+    clientID: 135b279ffd2b298c755b
+    clientSecret: 4b78df0a412436b552cbe7daae508185958d9ec7
+# 在使用其它评论组件时可点击显示 Disqus
+lazy_load_disqus : false
+
+# ---------------- #
+#      Search      #
+# ---------------- #
+simple_jekyll_search:
+    # 是否支持全文搜索
+    fulltext: true
+    # 最多显示多少条搜索结果
+    limit: 1000
+
+
