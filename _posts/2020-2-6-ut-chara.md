@@ -1,3 +1,10 @@
+---
+layout: wiki
+title: Python君
+categories: chara
+description: Chara
+keywords: Chara , Undertale
+---
 # Chara
 undertale中的~~石油大亨~~人类孩子之一。
 和Flowry原身~~暗黑嗜杀重金属炫彩中二小王子（带孝子）~~是很好的兄弟。
